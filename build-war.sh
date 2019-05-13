@@ -2,7 +2,7 @@
 
 echo "### Create helloworld.war file"
 echo
-echo "Calling jar hhhhh"
+echo "Calling jar hhhhhahahah"
 echo
 jar -cvf helloworld.war *.jsp WEB-INF
 echo
