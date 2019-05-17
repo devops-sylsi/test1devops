@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "### Create helloworld.war file"
+echo "### Create helloworld.war file 0"
 echo
 echo "Calling jar"
 echo
